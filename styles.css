@@ -1,0 +1,13 @@
+h1 {
+  font-family: 'Georgia', serif;
+  color: #8B4513;
+  text-align: center;
+}
+
+body {
+  background-color: #FFF8DC;
+  /* Color crema claro */
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  margin: 20px;
+}
